@@ -4,7 +4,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-Nano-00979D?logo=arduino)](https://store.arduino.cc/products/arduino-nano)
 [![Platform](https://img.shields.io/badge/platform-Arduino%20AVR-blue)]()
 
-A retrofittable, low-cost cruise control system for small-displacement motorcycles (70-150cc) commonly found in South Asian and Southeast Asian markets. The system uses an Arduino Nano, Hall-effect speed sensor, MG996R servo, and a discrete-time PI controller to maintain a rider-set speed, and 1.2 in OLED for UI, reducing fatigue on long rides.
+A retrofittable, low-cost cruise control system for small-displacement motorcycles (70-150cc) commonly found in South Asian and Southeast Asian markets. The system uses an Arduino Nano, Hall-effect speed sensor, MG996R servo, and a discrete-time PI controller to maintain a rider-set speed, and 1.2in OLED for UI. Improving comfort, fuel efficiency and reducing fatigue on long rides.
 
 ## 📋 Features
 
