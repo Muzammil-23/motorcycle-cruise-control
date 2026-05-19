@@ -43,7 +43,7 @@ The firmware runs on an **Arduino Nano** (ATmega328P).
 
 ## 🖨️ 3D Models
 
-STL files for the enclosure and mechanical parts are in the `/3d-models` folder.
+STL files for the enclosure and mechanical parts are in the `/3D files` folder.
 
 **Printing Recommendations:**
 - Material: ABS or PETG
