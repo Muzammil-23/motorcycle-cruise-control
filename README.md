@@ -17,6 +17,9 @@ A retrofittable, low-cost cruise control system for small-displacement motorcycl
 - **Bumpless transfer** on engagement/disengagement
 - **Cost-effective** (~$20 USD total hardware cost)
 
+  ## Cruise Control System installed on a motorcycle handlebar
+!(images/Cruise_control.png)
+
 ## 🔧 Hardware
 
 This project was designed using **Proteus 8 Professional** .
